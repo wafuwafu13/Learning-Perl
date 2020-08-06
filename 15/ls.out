@@ -1,0 +1,17 @@
+total 9
+drwxrwxr-x+ 10 root  admin   320  8  4 08:35 Applications
+drwxr-xr-x  64 root  wheel  2048  8  3 17:18 Library
+drwxr-xr-x@  8 root  wheel   256  5 28 08:31 System
+drwxr-xr-x   6 root  admin   192  8  3 10:42 Users
+drwxr-xr-x   3 root  wheel    96  8  6 15:32 Volumes
+drwxr-xr-x@ 38 root  wheel  1216  5 28 08:37 bin
+drwxr-xr-x   2 root  wheel    64  4 18 06:06 cores
+dr-xr-xr-x   3 root  wheel  4468  8  6 15:32 dev
+lrwxr-xr-x@  1 root  admin    11  6 26 15:53 etc -> private/etc
+lrwxr-xr-x   1 root  wheel    25  8  6 15:32 home -> /System/Volumes/Data/home
+drwxr-xr-x   2 root  wheel    64  4 18 06:16 opt
+drwxr-xr-x   6 root  wheel   192  5 28 08:32 private
+drwxr-xr-x@ 63 root  wheel  2016  6 26 16:00 sbin
+lrwxr-xr-x@  1 root  admin    11  6 26 16:00 tmp -> private/tmp
+drwxr-xr-x@ 11 root  wheel   352  6 26 16:00 usr
+lrwxr-xr-x@  1 root  admin    11  6 26 16:00 var -> private/var
